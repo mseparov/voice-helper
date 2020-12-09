@@ -5,3 +5,4 @@ Mentori: doc.dr.sc. Nikola Tankovic (ntankovic.unipu.hr) i Toni Starčić, univ.
 Kratki opis: Ova web aplikacija će pomoći korisnicima da lakše upravljaju internetom pomoću glasovnih komandi.
 Link na javni prototip: https://programsko.000webhostapp.com/index.html
 Zaduženja: sam radim projekat.
+Dopustiti (allow) browseru da snima audio i da otvara pop-ups.
